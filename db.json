@@ -1,5 +1,5 @@
-{
-"products": [
+[
+"products": 
 {"id":1,"name":"Canadian Emmenthal","category":"Parsley Italian - Fresh"},
 {"id":2,"name":"Cherries - Maraschino,jar","category":"Oven Mitt - 13 Inch"},
 {"id":3,"name":"Wine - Maipo Valle Cabernet","category":"Chips Potato Salt Vinegar 43g"},
@@ -25,5 +25,4 @@
 {"id":23,"name":"Longos - Greek Salad","category":"Orange - Tangerine"},
 {"id":24,"name":"Pineapple - Regular","category":"Rabbit - Legs"},
 {"id":25,"name":"Berry Brulee","category":"Truffle Shells - White Chocolate"}
-}
 ]
