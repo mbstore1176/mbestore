@@ -1,0 +1,29 @@
+{
+"products": [
+{"id":1,"name":"Canadian Emmenthal","category":"Parsley Italian - Fresh"},
+{"id":2,"name":"Cherries - Maraschino,jar","category":"Oven Mitt - 13 Inch"},
+{"id":3,"name":"Wine - Maipo Valle Cabernet","category":"Chips Potato Salt Vinegar 43g"},
+{"id":4,"name":"Syrup - Monin, Swiss Choclate","category":"Bread - Corn Muffaleta Onion"},
+{"id":5,"name":"Pepper - Red, Finger Hot","category":"Pastrami"},
+{"id":6,"name":"Wine - Beaujolais Villages","category":"The Pop Shoppe - Grape"},
+{"id":7,"name":"Wine - Magnotta - Cab Sauv","category":"Nut - Almond, Blanched, Sliced"},
+{"id":8,"name":"Longos - Greek Salad","category":"Wine - Red, Gamay Noir"},
+{"id":9,"name":"Pimento - Canned","category":"Pork - Sausage Casing"},
+{"id":10,"name":"Marzipan 50/50","category":"Kippers - Smoked"},
+{"id":11,"name":"Nut - Hazelnut, Whole","category":"Pork - European Side Bacon"},
+{"id":12,"name":"Squash - Acorn","category":"Bowl 12 Oz - Showcase 92012"},
+{"id":13,"name":"Bagels Poppyseed","category":"Broom - Angled"},
+{"id":14,"name":"Syrup - Monin - Blue Curacao","category":"Fuji Apples"},
+{"id":15,"name":"Nut - Walnut, Chopped","category":"Basil - Fresh"},
+{"id":16,"name":"Veal - Provimi Inside","category":"Yogurt - Peach, 175 Gr"},
+{"id":17,"name":"Fudge - Chocolate Fudge","category":"Sole - Iqf"},
+{"id":18,"name":"Gelatine Leaves - Bulk","category":"Initation Crab Meat"},
+{"id":19,"name":"Ranchero - Primerba, Paste","category":"Cafe Royale"},
+{"id":20,"name":"Drambuie","category":"Lettuce - Arugula"},
+{"id":21,"name":"Beef - Ox Tail, Frozen","category":"Seaweed Green Sheets"},
+{"id":22,"name":"Chicken Giblets","category":"Wine - White, Lindemans Bin 95"},
+{"id":23,"name":"Longos - Greek Salad","category":"Orange - Tangerine"},
+{"id":24,"name":"Pineapple - Regular","category":"Rabbit - Legs"},
+{"id":25,"name":"Berry Brulee","category":"Truffle Shells - White Chocolate"}
+}
+]
